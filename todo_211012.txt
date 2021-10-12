@@ -46,3 +46,6 @@ const Index = () => {return (<MainContainer keywords={"main page"}><h1>Глав�
 
 6) ssr how to check
 browser -> RBclick -> просмотр кода страницы = показывает что грузится на стороне сервера
+
+7) host
+https://vercel.com/dieerste/next-first-base
